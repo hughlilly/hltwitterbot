@@ -26,7 +26,7 @@ class TwitterAPI:
 
 if __name__ == "__main__":
     twitter = TwitterAPI()
-    twitter.tweet("3rd tweet")
+    twitter.tweet("four tweets now...")
     while True:
         #Send a tweet here!
         time.sleep(60)
